@@ -1,0 +1,15 @@
+body {
+background-color: black;
+}
+
+.Logo {
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+
+.teaser {
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
